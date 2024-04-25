@@ -1,6 +1,6 @@
 # Network Analysis Study
 
-Softwares e bibliotecas para analise e visualização de redes hashtag#network hashtag#analitcs
+Softwares e bibliotecas para analise e visualização de redes 
 
 ### Bibliotecas do R
 - Igraph 
