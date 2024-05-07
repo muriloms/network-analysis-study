@@ -2,6 +2,9 @@
 
 Softwares e bibliotecas para analise e visualização de redes 
 
+- graph-tool
+https://graph-tool.skewed.de/static/doc/
+
 ### Bibliotecas do R
 - Igraph 
 https://r.igraph.org/
